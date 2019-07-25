@@ -78,9 +78,3 @@ Cancelbutton {
   }
   
   Cancelbutton:hover {opacity: 1}
-
-scblogo {
-    width: 46px;
-    height: 44px;
-    background: url(scb-logo-1.png) 0 0;
-  }
