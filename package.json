@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/notrealinqx/Line-liff#readme",
   "dependencies": {
-    "@types/request": "^2.48.2",
-    "express": "^4.17.1",
+    "express": "^4.16",
     "request": "^2.88.0",
     "require": "^2.4.20",
     "window": "^4.2.6"
