@@ -60,7 +60,7 @@ button {
     display: inline-block;
     text-decoration: none;
     cursor: pointer;
-    width: 10%;
+    width: 30%;
     border-radius: 8px;
   }
   
@@ -78,7 +78,7 @@ button {
     margin: 4px 2px;
     opacity: 0.6;
     transition: 0.3s;
-    width: 10%;
+    width: 30%;
     display: inline-block;
     text-decoration: none;
     cursor: pointer;
