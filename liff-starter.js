@@ -13,7 +13,9 @@ function initializeApp(data) {
   // openSCB call
   document.getElementById('OKbutton').addEventListener('click', async function () {
       var token = await getAccessToken()
+      console.log(token)
       var deepLink = await getDeepLink(token, 999)
+      console.log(deepLink)
     liff.openWindow({
             url:deepLink,
             external:true
